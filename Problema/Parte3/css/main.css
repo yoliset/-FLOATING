@@ -1,0 +1,49 @@
+h1{
+  width: 500px;
+    height: 250px;
+    border: 1px solid #CDC9CD;
+}
+}
+body {
+    margin: 0px;
+    padding: 0;
+    color: #000;
+    display: block;
+    
+}
+    
+
+.tres {
+ 
+    background-color: yellow;
+    height: 80px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+}
+
+
+
+.cuatro {
+ 
+    background-color: blue;
+    height: 80px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+}
+   
+
+.cinco {
+ 
+    background-color: red;
+    height: 80px;
+    width: 120px;
+    padding: 0px;
+    margin: 0px;
+    float: right;
+}
+
+/* Pon tu código css aqui */
