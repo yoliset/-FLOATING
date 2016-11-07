@@ -2,7 +2,7 @@ h1{
     font-size: 100px;
     
     font-family:cursive;
-    color:cornsilk;
+    color: rgb(203, 119, 155);
 }
 a {
     
@@ -35,7 +35,7 @@ a:hover {
 }
 body{
   
-    background-image: url(images/elfen.jpg);
+    background-image: url(images/elfen_lied);
     background-repeat: no-repeat;
     z-index: -100;
    
